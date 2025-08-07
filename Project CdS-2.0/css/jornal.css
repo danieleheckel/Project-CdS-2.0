@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to top, #000000, #330e0e,#000000);
+    margin: 2.5%;
+}
+
+h1 {
+    color: #c0aadd;
+    text-align: center;
+    font-size: 50px;
+    font-family: "4";
+    -webkit-text-stroke: 0.5px #4e1212;
+}
+
+p {
+    color: #bfb4ce;
+    margin: 10px;
+    font-family: "2";
+    letter-spacing: 1px;
+}
+
+p2 {
+    font-size: 20px;
+    animation: primeira 5s infinite;
+    text-align: center;
+}
