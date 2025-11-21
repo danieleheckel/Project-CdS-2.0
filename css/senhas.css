@@ -1,0 +1,57 @@
+button {
+    background-color: #4e1212;
+    color: #c0aadd;
+    padding: 5px;
+    border-radius: 45px;
+    justify-content: center;
+    margin-bottom: 2px;
+    display: flex;
+    font-family: "2";
+    letter-spacing: 1.5px;
+    transition: 5ms ease;
+    margin-left: 10px;
+    margin-top: 5px;
+    height: 50px;
+    width: 100px;
+    align-items: center;
+    font-size: 15px;
+}
+
+button:hover {
+    color: #120225;
+    scale: 0.9;
+}
+
+button:active {
+    scale: 0.8;
+    background-color: #120225;
+}
+
+input {
+    background-color: black;
+    border-radius: 40px;
+    color: #c0aadd;
+    display: flex;
+    height: 80px;
+    width: 120px;
+}
+
+body {
+    background-image: url(/img/fundinho.png);
+    background-size: cover;
+    margin-top: 80px;
+}
+
+h1 {
+    color: #c0aadd;
+    font-family: '1';
+    letter-spacing: 1.5px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.noite {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
