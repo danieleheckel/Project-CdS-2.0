@@ -38,3 +38,22 @@ p2 {
     text-decoration: none;
     font-family: '4';
 }
+
+p3 {
+    font-size: 8px;
+    text-decoration: none;
+    font-family: '4';
+}
+
+.diario {
+    margin: 5%;
+    margin-top: 5px;
+    justify-content: center;
+    font-size: 25px;
+    font-family: '4';
+    letter-spacing: 3px;
+    color: #48454d;
+    border-radius: 25px;
+    border: #3a1568, dotted, 2px;
+    padding: 5px;
+}

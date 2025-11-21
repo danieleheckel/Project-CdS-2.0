@@ -1,7 +1,7 @@
 function verificarSenha() {
     var senhasCorretas = {
         "lirio de sangue": "segredo/BlutLilien.html",
-        "ela foi a primeira": "segredo/",
+        "ela foi a primeira": "segredo/depoimento.html",
     };
 
     var senhaDigitada = document.getElementById ("senha").value.trim();
